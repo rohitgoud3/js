@@ -1,0 +1,9 @@
+const accoutId = 144553
+let accountEmail = "bruce.wayne@gamil.com"
+var accountPassword = "12345"
+accountCity = "Navi Mumbai"
+
+
+accoutId = 2
+
+console.log(accoutId);
